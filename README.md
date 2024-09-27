@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aadil105
-- 👀 I’m interested in Power Bi Developement, Management Consulting , Stategy Consultant, Data Analyst, Data Science, Data Engineer
+- 👀 I’m interested in Power Bi Developement, Data Analyst, Data Science, Data Engineer
 - 🌱 I’m currently learning MBA in Business Analytics from BITS Pilani
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... gmail: mdaadililyas@gmail.com
